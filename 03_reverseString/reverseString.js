@@ -8,11 +8,3 @@ const reverseString = function (input) {
 
 // Do not edit below this line
 module.exports = reverseString;
-
-/* function reverseString(input) {
-    let reversedString = "";
-    for (let i = input.length - 1; i >= 0; i--) {
-      reversedString += input[i];
-    }
-    return reversedString;
-  } */
